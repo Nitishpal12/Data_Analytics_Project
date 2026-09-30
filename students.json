@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "Nitish",
+        "age": 21,
+        "marks": 85
+    },
+    "2": {
+        "name": "Aman",
+        "age": 22,
+        "marks": 72
+    },
+    "3": {
+        "name": "Priya",
+        "age": 20,
+        "marks": 91
+    }
+}
